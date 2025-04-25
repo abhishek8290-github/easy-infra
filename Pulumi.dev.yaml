@@ -1,0 +1,5 @@
+config:
+  aws:region: ap-south-1
+  streamlit-deploy:githubToken:
+    secure: AAABAGkHN/qGW0hKqDo5jFbHSWMU+02BQVv3KLhRieG4OgqpNFUoy/zVQgHiVu17OZiI3fJjtcXbj5KYt6/rMzO7jxZXG0ra
+  streamlit-deploy:dockerRepoName: streamlit-app

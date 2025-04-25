@@ -1,0 +1,11 @@
+{
+    "name": "streamlit-deploy",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/aws": "^6.0.0",
+        "@pulumi/awsx": "^2.0.2",
+        "@pulumi/docker": "^4.6.2",
+        "@pulumi/pulumi": "^3.0.0",
+        "sshpk": "^1.18.0"
+    }
+}
